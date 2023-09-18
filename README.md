@@ -1,2 +1,2 @@
 # student2
-#welcome to ballari
+welcome to ballari
